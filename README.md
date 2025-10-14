@@ -3,7 +3,7 @@
 ###  Submitted By:
 **Name:** Kanchan Kapri  
 **Course:** BCA (DS & AI)  
-**Semester:** II  
+**Semester:** 3
 **University:** Babu Banarasi Das University (BBDU), Lucknow  
 
 ---
