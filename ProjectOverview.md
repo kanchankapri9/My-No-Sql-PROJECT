@@ -86,5 +86,19 @@ The project covers the complete MongoDB workflow — from **data storage and fil
 
 ---
 
-## Project Structure
+---
+
+## Author
+
+**Name:** Kanchan Kapri  
+**Registration No.:** 1240258215  
+**Subject:** NoSQL and DBaaS 101  
+**Course:** BCA (Data Science & AI)  
+**Institution:** Babu Banarasi Das University, Lucknow  
+**Submitted To:** Mr. Ankit Verma (IBM Faculty)  
+
+---
+
+### Happy Coding 💻
+
 
